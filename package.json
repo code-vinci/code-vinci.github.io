@@ -18,5 +18,5 @@
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
   },
-  "homepage": "https://code-vinci.github.io/about"
+  "homepage": "https://code-vinci.github.io"
 }
